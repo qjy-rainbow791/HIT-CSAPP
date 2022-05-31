@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+  math_function.cpp
+  sseavx.cpp
+  正在生成代码...
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  sseavx.vcxproj -> D:\hitics\WinVS\x64\Release\sseavx.exe

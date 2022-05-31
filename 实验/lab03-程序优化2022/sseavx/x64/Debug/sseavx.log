@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+  math_function.cpp
+  sseavx.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+math_function.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  sseavx.vcxproj -> D:\hitics\WinVS\x64\Debug\sseavx.exe
